@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FacturacionTaller/FacturacionTaller.csproj" />
+  <Project Path="Taller/Taller.csproj" />
+</Solution>
